@@ -42,14 +42,6 @@
 **Tools:**  
 `Git` `VS Code` `Jupyter` `Linux`
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkataAbhishekTech&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenkataAbhishekTech&layout=compact&theme=tokyonight" width="49%">
-</p>
 
 ---
 
@@ -61,3 +53,43 @@
 </p>
 
 -->
+
+---
+## 🧑‍💻 Experience
+
+### 🚀 Machine Learning Intern — Alfido Tech  
+**Duration:** 1st June - 31th July 2025
+- Worked on real-world **machine learning** projects.  
+- Built and trained ML models using **Python, NumPy, Pandas, Scikit-learn**.  
+- Performed **data preprocessing, visualization, and model evaluation**.  
+- Completed assigned ML modules and submitted the final project successfully.
+
+---
+
+### 🎤 Participant — Rapid Prototyping Camp (RPC)  
+**Role:** Event Participant  
+- Participated in the **Rapid Prototyping Camp (RPC)** technical event.  
+- Created fast working prototypes under time constraints.  
+- Demonstrated strong **problem-solving, creativity, and teamwork**.  
+- Gained hands-on exposure to real-world tech challenges and innovation.
+
+-->
+
+---
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
+  </a>
+
+  <a href="https://github.com/VenkataAbhishekTech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48px"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Chintakayala_Venkata_Abhishek/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48px"/>
+  </a>
+</p>
+
+
