@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <img src="https://raw.githubusercontent.com/username/repo/main/banner.png" width="100%" />
 </p>
+
+
+
 
 <h2 align="center">Hey! I'm Abhishek 👋</h2>
 
