@@ -42,18 +42,6 @@
 **Tools:**  
 `Git` `VS Code` `Jupyter` `Linux`
 
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
-</p>
-
--->
-
 ---
 ## 🧑‍💻 Experience
 
